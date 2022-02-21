@@ -29,7 +29,7 @@
 
 [🎥 Tutorial Video: ](https://www.youtube.com/watch?v=S40XsVJOtJo)    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/DATE_TIME_USERBOT-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sonujoseph23/DATE_TIME_USERBOT-TeLeTiPs)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
